@@ -1,4 +1,4 @@
-# Numerical_Code_Recognition_on_an_Industrial_Seal_Classical_Image_Processing
+# Numerical_Code_Recognition_on_an_Industrial_Seal_Using_Classical_Image_Processing
 
 Reads the seven-digit code stamped on an industrial seal from a 1920×1200 grayscale
 PNG and writes it to a CSV. Pure classical computer vision — localize the digit row,
