@@ -1,0 +1,9 @@
+# Pinned runtime for the classical approach; `pip install -r requirements.txt`
+# before the timed evaluation. The full transitive set is pinned so the model in
+# weights/svm.joblib loads under the exact versions it was trained and pickled with.
+numpy==1.26.4
+opencv-python==4.11.0.86
+scikit-learn==1.5.2
+scipy==1.17.1
+joblib==1.4.2
+threadpoolctl==3.6.0
